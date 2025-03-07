@@ -1,2 +1,0 @@
-java.lang.RuntimeException: bug found
-	at account.Main.main(account/Main.java:56)
